@@ -1,5 +1,5 @@
-# Pluralsight's Unit Testing in Angular Course
-This course is up to date.
+# Angular Testing 
+Walthrough of Pluralsight's Unit Testing in Angular Course by Joe Eames
 
 To get started, clone the repo or download it
 
